@@ -1,6 +1,8 @@
 # Octogear Sublime Text 3 preferences
 Color theme and preferences for Sublime text 3 editor
 
+![Octogear Late Night color theme](Screenshot.png?raw=true "Octogear Late Night color theme")
+
 ## Install Instructions:
 
 **Mac OSX**
