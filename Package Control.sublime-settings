@@ -6,7 +6,6 @@
   "installed_packages":
   [
     "Better CoffeeScript",
-    "Dracula Color Scheme",
     "EditorConfig",
     "GitGutter-Edge",
     "Handlebars",
@@ -19,5 +18,6 @@
     "Syntax Highlighting for Sass",
     "Theme - Soda"
     "Color Highlighter"
+    "ColorHelper"
   ]
 }

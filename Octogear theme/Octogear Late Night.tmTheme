@@ -21,7 +21,7 @@
         <string>#1F1F1F</string>
 
         <key>selection</key>
-        <string>#121212</string>
+        <string>##000000</string>
         <key>selectionBorder</key>
         <string>#222218</string>
         <key>inactiveSelection</key>

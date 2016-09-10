@@ -36,3 +36,5 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/sub
 - [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
 - [Syntax Highlighting for Sass](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass)
 - [Theme - Soda](https://packagecontrol.io/packages/Theme%20-%20Soda)
+- [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
+- [ColorHelper](https://packagecontrol.io/packages/ColorHelper)
